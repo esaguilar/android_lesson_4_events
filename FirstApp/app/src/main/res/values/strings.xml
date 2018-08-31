@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="pt_principal">PRINCIPAL</string>
+    <string name="pt_auto">AUTO</string>
+    <string name="pt_port_teis">PORTÁTEIS</string>
+    <string name="pt_residencial">RESIDENCIAL</string>
+    <string name="pt_viagem">VIAGEM</string>
+    <string name="pt_empre">EMPRESAR.</string>
+</resources>
